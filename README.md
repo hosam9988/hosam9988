@@ -2,8 +2,6 @@
 <h3 align="center">I'm Hosam Khaled. Full Stack Software engineer, with hands-on experience in designing, modifying, developing, testing, implementing enterprise solutions</h3>
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Enterprise software solutions for largest hospitals/Labs of the medical field in the MENA Region.
 - 🔭 I’m a graduated intern of Information Technology Institute (ITI).
 - 📫 How to reach me: hosamkhaled1001@gmail.com
