@@ -18,7 +18,7 @@ Top Technologies and Tools :
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white">
   </a>
   <a href="https://www.java.com" target="_blank"> 
