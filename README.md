@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  I am the technical owner, sole creator and maintainer of Jahez Group's AI search platform.<br>
-  I started it from an empty repository, wrote 90%+ of its 670+ commits, and I own it end to end.
+  I am the technical owner, sole creator and maintainer of Jahez Group's AI search platform:<br>
+  one hybrid search engine, built from an empty repository, replacing the legacy search.
 </p>
 
 <p align="center">
@@ -19,16 +19,16 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><h3>1 engine</h3>3 businesses,<br>millions of customers</td>
-<td align="center" width="25%"><h3>30,000+</h3>stores and millions<br>of products searched</td>
-<td align="center" width="25%"><h3>90%+</h3>of its 670+ commits<br>written by me</td>
-<td align="center" width="25%"><h3>15+</h3>relevance signals<br>fused into one ranking</td>
+<td align="center" width="25%"><h3>3 businesses</h3>on one search engine</td>
+<td align="center" width="25%"><h3>30,000+</h3>stores, millions of products</td>
+<td align="center" width="25%"><h3>90%+</h3>of its 670+ commits are mine</td>
+<td align="center" width="25%"><h3>15+</h3>relevance signals fused</td>
 </tr>
 <tr>
-<td align="center"><h3>~97%</h3>less vector memory,<br>a 32x cut</td>
-<td align="center"><h3>&lt; 1 minute</h3>from catalog change<br>to search index</td>
-<td align="center"><h3>100+</h3>tests running the real<br>pipeline end to end</td>
-<td align="center"><h3>5+ years</h3>building high-scale<br>backend systems</td>
+<td align="center"><h3>~97%</h3>less vector memory (32x)</td>
+<td align="center"><h3>&lt; 1 minute</h3>from catalog to search index</td>
+<td align="center"><h3>100+</h3>end-to-end pipeline tests</td>
+<td align="center"><h3>5+ years</h3>building high-scale systems</td>
 </tr>
 </table>
 </div>
