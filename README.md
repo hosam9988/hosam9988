@@ -19,16 +19,16 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="25%"><h3>1 engine</h3>behind 3 businesses</td>
-<td align="center" width="25%"><h3>30,000+</h3>stores, millions of products</td>
-<td align="center" width="25%"><h3>90%+</h3>of 670+ commits are mine</td>
-<td align="center" width="25%"><h3>15+</h3>relevance signals fused</td>
+<td align="center" width="208"><h3>1 engine</h3>behind 3 businesses</td>
+<td align="center" width="208"><h3>30,000+</h3>stores, millions of products</td>
+<td align="center" width="208"><h3>90%+</h3>of 670+ commits are mine</td>
+<td align="center" width="208"><h3>15+</h3>relevance signals fused</td>
 </tr>
 <tr>
-<td align="center"><h3>~97%</h3>less vector memory (32x)</td>
-<td align="center"><h3>&lt; 1 minute</h3>catalog to search index</td>
-<td align="center"><h3>100+</h3>end-to-end pipeline tests</td>
-<td align="center"><h3>5+ years</h3>of high-scale systems</td>
+<td align="center" width="208"><h3>~97%</h3>less vector memory (32x)</td>
+<td align="center" width="208"><h3>&lt; 1 minute</h3>catalog to search index</td>
+<td align="center" width="208"><h3>100+</h3>end-to-end pipeline tests</td>
+<td align="center" width="208"><h3>5+ years</h3>of high-scale systems</td>
 </tr>
 </table>
 </div>
